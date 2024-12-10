@@ -7,7 +7,8 @@ Contenido
         Java Development Kit (JDK): Versión 17 o superior.
         Gradle: Herramienta para gestionar dependencias.
         Git: Para clonar el repositorio del proyecto.
-        railway: Configurado para interactuar con la base de datos.
+        railway: Tener una cuenta en railway.app para gestion de base de datos
+        en la nube.
 
 2. Configuración del Entorno
 
